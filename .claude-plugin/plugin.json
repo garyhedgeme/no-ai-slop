@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "no-ai-slop",
+  "description": "Removes 20+ patterns of AI slop from any piece of writing while preserving the writer's voice.",
+  "version": "1.0.6",
+  "author": {
+    "name": "Peter Yang",
+    "url": "https://creatoreconomy.so"
+  },
+  "homepage": "https://github.com/petergyang/no-ai-slop",
+  "repository": "https://github.com/petergyang/no-ai-slop",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "voice", "ai-slop"]
+}

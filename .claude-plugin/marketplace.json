@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "no-ai-slop",
+  "owner": {
+    "name": "petergyang",
+    "url": "https://github.com/petergyang"
+  },
+  "description": "Install No AI Slop as a Claude Code plugin. Upstream ships .codex-plugin only; this fork adds the Claude manifest.",
+  "plugins": [
+    {
+      "name": "no-ai-slop",
+      "source": "./",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing while preserving the writer's voice.",
+      "license": "MIT",
+      "keywords": ["writing", "editing", "voice", "ai-slop"]
+    }
+  ]
+}
